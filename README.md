@@ -1,5 +1,6 @@
 # python-api-challenge
 The temperatures are hottest below the equator and up to the equator and then begin to drop really low once we get into the Northern Hemisphere. 
+
 There were more cities that came up with a higher humidity percentaage in the northern hemisphere. 
 Most wind speeds were between 0 - 10 mph in the study
 There is a strong negative regression when looking at the max temperatures in the northern hemisphere as temps drop closer to the north pole. 
