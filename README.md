@@ -11,6 +11,6 @@ There is a small positive regression with max temperatures in the southen hemisp
 
 There are positive regressions in humidity percentage in both the southern and northern hemispheres. But the humidity rises as we get away from the equator in the north but the humidity rises in the south as we approach the equator. 
 
-WeatherPy.ipynb is the first file to view that calls the openweathermap API. 
+WeatherPy.ipynb is the first file to view that calls the openweathermap API and creates a new csv.  
 
 VacationPy.ipynb is the second file to view that uses Gmaps to view top vacation destinations. Notebook will have to be run in order to view the map. 
